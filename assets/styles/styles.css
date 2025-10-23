@@ -33,7 +33,7 @@ html {
 body {
     height: 100vh;
     width: 100%;
-    background: url(./assets/images/modern-desktop-background-geometric-blue-design-vector_53876-135923.jpg);
+    background: var(--bg-dark);
     color: var(--text-light);
     min-height: 100vh;
     overflow-x: hidden;
